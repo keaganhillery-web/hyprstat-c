@@ -1,6 +1,6 @@
 # hyprstat-c
 
-A terminal system dashboard written in C, as a learning project — no external libraries, reads directly from `/proc`.
+A terminal system dashboard written in C, as a learning project, no external libraries, reads directly from `/proc`.
 
 ## Build & run
 
